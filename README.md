@@ -2,4 +2,4 @@
 
 [![Hwajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinimon&theme=radical)](https://github.com/jinimon/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinimon&theme=radical)](https://github.com/jinimon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinimon&theme=vue)](https://github.com/jinimon/github-readme-stats)
