@@ -6,7 +6,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hwajin3114&theme=buefy&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hwajin3114&theme=buefy&show_icons=true&hide=contribs"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwajin3114&theme=buefy&layout=compact" />
   </div>
 </div>
